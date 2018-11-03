@@ -2,3 +2,11 @@ body{
     background: url('DoctorWho.jpg');
     background-size: cover;
 }
+h1{color: #ffffff;
+    font-size: 41px;
+    font-style: normal;
+    font-family: 'Bangers', cursive;
+    padding: 0px 25px;
+    margin: 20px 4px 23px -1px;
+
+}
